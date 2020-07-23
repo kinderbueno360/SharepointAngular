@@ -31,7 +31,7 @@ var app = angular.module('SennitApp', ['sennit.sharejs-serices', 'sennit.sharejs
 <div>
 ```
 
-![alt tag](https://raw.githubusercontent.com/kinderbueno360/SharepointAngular/Version-2/img/gridview.PNG)
+![alt tag](https://github.com/kinderbueno360/SharepointAngular/blob/img/gridview.PNG)
 
 In **fields** you put array with the properties name and value, name is a orignal name in Sharepoint List and value the friendly name
 
@@ -48,11 +48,11 @@ In **listaname** you put you lista name, sensitive case
 <div>
 ```
 
-![alt tag](https://raw.githubusercontent.com/kinderbueno360/SharepointAngular/Version-2/img/newform.PNG)
+![alt tag](https://github.com/kinderbueno360/SharepointAngular/blob/img/newform.PNG)
 
 If the propertie **strupdate** is **true** the module work with update method, UI and Services.
 
-![alt tag](https://github.com/kinderbueno360/SharepointAngular/blob/Version-2/img/update.PNG)
+![alt tag](https://github.com/kinderbueno360/SharepointAngular/blob/img/update.PNG)
 
 
 ## Howto use Easly Sharepoint RestApi with sennitRestApi
